@@ -2,3 +2,5 @@ opencv-python==4.6.0.66
 numpy==1.23.2
 PyAutoGUI==0.9.53
 PyDirectInput==1.0.4
+pywin32==303
+Pillow==9.2.0
