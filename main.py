@@ -98,7 +98,7 @@ while(True):
     if (flag):
         time.sleep(90)
         continue
-    time.sleep(180)
+    time.sleep(90)
     while (True):
         time.sleep(1.5)
         screen = pyautogui.screenshot(region=(window_rect[0], window_rect[1], 1296, 759))

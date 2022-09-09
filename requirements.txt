@@ -1,0 +1,7 @@
+opencv-python==4.6.0.66
+numpy==1.23.2
+PyAutoGUI==0.9.53
+PyDirectInput==1.0.4
+1280x720. Start the program on the main screen.
+Not in escape, just the character must stand.
+The game must be revealed, not in alt+tab.
